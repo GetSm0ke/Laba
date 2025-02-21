@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/GetSmoke/Desktop/Laba/CMakeLists.txt
+  main.cpp
+  utils.cpp
+  Создание кода...
+C:\Users\GetSmoke\Desktop\Laba\src\main.cpp(8,1): error C2059: синтаксическая ошибка: <<
+C:\Users\GetSmoke\Desktop\Laba\src\main.cpp(10,1): error C2059: синтаксическая ошибка: ==
+C:\Users\GetSmoke\Desktop\Laba\src\main.cpp(12,1): error C2059: синтаксическая ошибка: >>

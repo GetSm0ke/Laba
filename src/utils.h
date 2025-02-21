@@ -3,5 +3,6 @@
 
 int sumi(int a, int b);
 int subi(int a, int b);
+int mult(int a, int b);
 
 #endif
