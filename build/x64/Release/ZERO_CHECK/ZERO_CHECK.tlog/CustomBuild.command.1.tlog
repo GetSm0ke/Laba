@@ -1,0 +1,10 @@
+^C:\USERS\GETSMOKE\DESKTOP\LABA\BUILD\CMAKEFILES\BE1D8F2568F949A3F8A07F131F1A82F1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/GetSmoke/Desktop/Laba -BC:/Users/GetSmoke/Desktop/Laba/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/GetSmoke/Desktop/Laba/build/Laba.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

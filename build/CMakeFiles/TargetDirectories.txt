@@ -1,0 +1,3 @@
+C:/Users/GetSmoke/Desktop/Laba/build/CMakeFiles/Laba.dir
+C:/Users/GetSmoke/Desktop/Laba/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/GetSmoke/Desktop/Laba/build/CMakeFiles/ZERO_CHECK.dir
